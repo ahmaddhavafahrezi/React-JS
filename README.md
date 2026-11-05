@@ -1,5 +1,5 @@
    # Website PMB UPI YPTK Padang
-   Aplikasi pendaftaran mahasiswa baru dengan React + TypeScript + Vite.
+   Aplikasi pendaftaran mahasiswa baru dengan React 
 
    ## Fitur
    - Form pendaftaran 3 langkah (useReducer)
